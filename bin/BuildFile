@@ -1,6 +1,4 @@
 <bin file=TestTCPSender.cpp>
    <use name=RecoLuminosity/TCPReceiver>
 </bin>
-<bin file=MirrorTCPtoDIPBroadcaster.cpp>
-   <use name=RecoLuminosity/TCPReceiver>
-</bin>
+
